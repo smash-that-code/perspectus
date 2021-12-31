@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="mountains.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7500982"
+     inkscape:cx="361.95261"
+     inkscape:cy="138.64851"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -8.9790818,125.20829 106.25245,28.184334 227.22061,127.95189 Z"
+       id="path975"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Data\Projects\java\perspectus\core\assets\mountains.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.308236,48.387267 13.219202,9.976754 8.480242,-8.729659 11.72269,10.974429 15.71339,-11.473269"
+       id="path1067"
+       inkscape:export-filename="D:\Data\Projects\java\perspectus\core\assets\mountains.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#999999;stroke-width:0.942686"
+       d="M 526.01857,478.8656 C 363.73524,476.91945 183.65872,474.81013 125.84853,474.17823 68.038334,473.54633 9.1962299,472.75591 -4.9117022,472.42174 L -30.562488,471.81415 140.26188,327.98983 311.08625,184.16552 l 24.67649,18.6828 c 13.57206,10.27554 24.94037,18.6828 25.26289,18.6828 0.32252,0 7.70955,-7.30037 16.41563,-16.22304 l 15.82922,-16.22303 21.46369,20.22945 c 11.80504,11.12619 21.82636,20.36577 22.26962,20.53238 0.44325,0.16662 14.06607,-9.37808 30.27292,-21.21042 16.20685,-11.83235 29.79913,-21.40653 30.20507,-21.27594 0.60646,0.19508 354.61023,291.78807 357.48693,294.46206 1.13565,1.05563 19.15857,1.21764 -328.95014,-2.95698 z"
+       id="path1143"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="D:\Data\Projects\java\perspectus\core\assets\mountains.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke-width:0.942686"
+       d="m 415.68869,207.21324 c -11.75291,-11.04958 -21.71087,-20.21869 -22.12878,-20.37579 -0.41792,-0.15711 -7.93924,7.02087 -16.71405,15.95105 l -15.95419,16.2367 -23.48868,-17.66792 c -12.91878,-9.71736 -23.6083,-17.99655 -23.7545,-18.3982 -0.35144,-0.96552 87.31348,-74.76721 88.35076,-74.37906 0.4412,0.16509 20.67818,16.69411 44.97107,36.73116 24.29288,20.03704 45.16047,37.23025 46.37243,38.20712 l 2.20354,1.77613 -28.37389,20.71073 c -15.60563,11.3909 -28.76558,20.84292 -29.24432,21.00448 -0.47875,0.16157 -10.48647,-8.74681 -22.23939,-19.7964 z"
+       id="path1219"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="D:\Data\Projects\java\perspectus\core\assets\mountains.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke-width:0.942686"
+       d="m 415.15613,206.76751 -21.73225,-20.41971 -16.34959,16.32956 -16.34959,16.32957 -23.4052,-17.6725 c -12.87285,-9.71987 -23.52773,-18.00369 -23.67749,-18.4085 -0.27071,-0.73173 86.84832,-74.51709 87.98298,-74.51709 0.49349,0 88.80674,72.32581 92.62481,75.85685 0.97783,0.90431 -4.56485,5.3521 -27.44972,22.02733 -15.77123,11.49182 -28.95322,20.89421 -29.29333,20.89421 -0.3401,0 -10.39788,-9.18887 -22.35062,-20.41972 z"
+       id="path1295"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="D:\Data\Projects\java\perspectus\core\assets\mountains.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
